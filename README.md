@@ -49,4 +49,3 @@ export async function executeStudentCrudOperations() {
   }
 }
 ```
-# first-node-mongodb-app
